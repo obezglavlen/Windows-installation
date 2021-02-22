@@ -1,7 +1,7 @@
 # Guide "HOW TO INSTALL WIN10":
 ## magnet torrent link:
 
-	magnet:?xt=urn:btih:68d6e1e68c452c731d1f8d8cc8bcbd6b5412f309&dn=Windows%2010%2020H2%20(x64)%2016in1%20%2b-%20Office%202019%20by%20Eagle123%20(11.2020)&tr=http%3a%2f%2fbt.t-ru.org%2fann&tr=http%3a%2f%2fretracker.local%2fannounce\
+	https://mega.nz/folder/dLBkGBZK#zZg1QX3KUuVTVY7pNg672g
 
 ## Создать загрузочную флешку:
 	
