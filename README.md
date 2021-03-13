@@ -58,6 +58,7 @@
 [VLC](https://www.videolan.org/vlc/download-windows.html)</br>
 [7zip](https://www.7-zip.org/download.html)</br>
 [MouseMac](https://mousemac.tarcode.ru)
+[PS script](https://github.com/obezglavlen/Windows-installation/blob/master/niniteinstall.ps1)
 
 ### [3]Также диск [Мега](https://mega.nz/folder/hXgmADpI#684WNaV4eOfVbs2GoLMz8g) с различными программами:
 
