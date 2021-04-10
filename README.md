@@ -45,7 +45,7 @@
 ### [2]Рекомендуемые программы:
 
 >[GitHub](https://desktop.github.com)</br>
-[NotePad++ origin](notepad-plus-plus.org/downloads) or
+[NotePad++ origin](https://notepad-plus-plus.org/downloads/) or
 [NotePad++ portable](https://portableapps.com/de/apps/development/notepadpp_portable)</br>
 [qBitTorrent origin](https://www.qbittorrent.org/download.php) or
 [qBitTorrent portable](https://portableapps.com/apps/internet/qbittorrent_portable)</br>
